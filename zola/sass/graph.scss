@@ -33,7 +33,7 @@ body.home {
 
 body.dark {
 	> div.home div.home-background,footer{
-		background: rgba($color: #212529, $alpha: 0.3);
+		background: rgba($color: #212529, $alpha: 0.95);
 		z-index: 2;
 		pointer-events: none;
 	}
