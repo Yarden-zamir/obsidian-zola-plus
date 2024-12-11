@@ -32,10 +32,6 @@ What's in this fork?
 
 # obsidian-zola
 
-![](https://img.shields.io/github/v/release/ppeetteerrs/obsidian-zola)
-![](https://img.shields.io/github/issues-closed-raw/ppeetteerrs/obsidian-zola)
-![](https://img.shields.io/badge/dynamic/json?color=blueviolet&label=today%27s%20views&query=%24.datasets%5B1%5D.values%5B%28%40.length-1%29%5D&url=https%3A%2F%2Fyhype.me%2Fapi%2Fchart%2Frepository_views_count_chart_controller%3FrepositoryNodeId%3DR_kgDOGpHp4A)
-
 A free (but better?) alternative to Obsidian Publish.
 
 > This repo contains an easy-to-use (read: simplistic) solution for converting an Obsidian Personal Knowledge Management System (read: bunch of random Markdowns) into a Zola site.
